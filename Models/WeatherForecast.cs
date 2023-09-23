@@ -1,4 +1,4 @@
-namespace hello_webapi;
+namespace hello_webapi.Models;
 
 public class WeatherForecast
 {

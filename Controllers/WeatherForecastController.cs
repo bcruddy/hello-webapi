@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 
+using hello_webapi.Models;
+
 namespace hello_webapi.Controllers;
 
 [ApiController]
