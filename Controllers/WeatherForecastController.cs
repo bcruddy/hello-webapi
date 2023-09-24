@@ -5,7 +5,7 @@ using hello_webapi.Models;
 namespace hello_webapi.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
